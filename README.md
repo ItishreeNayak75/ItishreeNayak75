@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Itishree Nayak</h1>
 <h3 align="center">💻 Passionate Java Developer | Crafting Robust Applications with Spring Boot & MySQL</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="300" alt="Java Coding GIF"/>
-</p>
 
 ---
 
