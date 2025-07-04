@@ -2,13 +2,13 @@
 <h3 align="center">💻 Passionate Java Developer | Crafting Robust Applications with Spring Boot & MySQL</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" alt="Coder GIF"/>
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="300" alt="Java Coding GIF"/>
 </p>
 
 ---
 
 - 🌱 I’m currently working on **Core Java, Advanced Java, Spring Boot, MySQL**
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **nayakitishree758@gmail.com**
 - 🧠 Constantly learning & building Java-based backend systems
 - 🐛 **Fun fact:** Java was initially called **“Oak”** because of an oak tree outside the creator’s office 🌳
 
@@ -19,7 +19,6 @@
   <a href="https://www.linkedin.com/in/your-linkedin-url" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <!-- Add more links here if needed -->
 </p>
 
 ---
@@ -34,14 +33,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
